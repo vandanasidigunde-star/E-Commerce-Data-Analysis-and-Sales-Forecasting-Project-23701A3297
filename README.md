@@ -1,0 +1,2 @@
+# E-Commerce-Data-Analysis-and-Sales-Forecasting-Project-23701A3297
+The E-Commerce Data Analysis and Sales Forecasting Project aims to analyze historical e-commerce transaction data to identify business trends, customer purchasing behavior, and sales performance while predicting future sales using machine learning and time series forecasting techniques. The project follows a complete data analytics workflow,
